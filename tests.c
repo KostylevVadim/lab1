@@ -136,7 +136,7 @@ void Random_values(){
             Lin* Min=malloc(sizeof(Lin));
             Getinfdouble(a);
             Getinfdouble(b);
-            Min=Sumdo(a,b);
+            Min=Mindo(a,b);
             Getinfdouble(Min);
             free(Min);
             break;
