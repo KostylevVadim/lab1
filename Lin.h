@@ -14,12 +14,7 @@ struct Lin{
 };
 Lin* GenerateLin(size_t l,size_t size, void* c);
 Lin* Enterdata();
-Lin* Sumint(Lin* a, Lin* b);
-Lin* Sumdo(Lin* a, Lin* b);
-Lin* Minint(Lin* a, Lin* b);
-Lin* Mindo(Lin* a, Lin* b);
-Lin* Multint(Lin* a, int x);
-Lin* Multdo(Lin* a, double x);
+
 Lin* Creating_near_random();
 void Revers(Lin* C);
 void Getinfint(Lin *C);
