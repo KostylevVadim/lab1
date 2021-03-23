@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include "Lin.h"
+#include "Linint.h"
+#include "lindo.h"
 //All for test
 void Redy_test(){
     Lin* C=malloc(sizeof(Lin));
