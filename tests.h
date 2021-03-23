@@ -5,6 +5,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include "Lin.h"
+#include "Linint.h"
+#include "lindo.h"
 #endif
 void Redy_test();
 void Random_values();
