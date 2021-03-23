@@ -242,6 +242,8 @@ void Random_values(){
         }
 
     }
+    free(a);
+    free(b);
     printf("\nRANDOM TEST IS FINISHED\n");
 }
 void Enter_test(){
@@ -394,6 +396,8 @@ void Enter_test(){
             }
         };
     }
+    free(a);
+    free(b);
     printf("\nTest was finished\n");
 
 }
